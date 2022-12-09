@@ -1,2 +1,0 @@
-# philosophyblog
-Created with CodeSandbox
